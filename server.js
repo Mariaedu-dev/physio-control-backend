@@ -3,8 +3,10 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const helmet = require('helmet');
 require('dotenv').config();
+const cors = require('cors');
 
 const app = express();
+
 
 // Middlewares
 app.use(helmet());
