@@ -100,7 +100,7 @@ Projeto desenvolvido com foco em:
 
 ## 🧠 Aprendizados
 - Criação de APIs
-- Integração com banco NoSQL
+- Persistência de dados utilizando MongoDB Atlas (banco de dados NoSQL em nuvem)
 - Organização backend
 - Deploy fullstack
 
