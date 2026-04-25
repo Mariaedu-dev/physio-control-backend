@@ -75,7 +75,7 @@ DELETE /consulta/:id
 
 🚀 API disponível em:
 
-(https://physio-control-backend.onrender.com/api/consultas)
+https://physio-control-backend.onrender.com/api/consultas
 
 ---
 
@@ -83,7 +83,7 @@ DELETE /consulta/:id
 
 O frontend da aplicação está hospedado no Netlify:
 
-(https://physio-front.netlify.app/)
+https://physio-front.netlify.app/
 
 ---
 
@@ -113,5 +113,5 @@ Maria Eduarda
 
 Estudante de Fisioterapia e Análise e Desenvolvimento de Sistemas
 
-## Consideraçoes
+## Considerações
 > 🔗 Projeto Fullstack com frontend em PWA e backend em Node.js, utilizando MongoDB como banco de dados.
