@@ -95,15 +95,7 @@ Projeto desenvolvido com foco em:
 - Consumo de API REST
 - Persistência de dados com MongoDB
 - Deploy em produção (Netlify + Render)
-
----
-
-## 🧠 Aprendizados
-- Criação de APIs
-- Persistência de dados utilizando MongoDB Atlas (banco de dados NoSQL em nuvem)
-- Organização backend
-- Deploy fullstack
-
+  
 ---
 
 ## 👩‍💻 Autora
