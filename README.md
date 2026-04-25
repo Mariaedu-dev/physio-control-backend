@@ -22,15 +22,28 @@ Projeto criado como parte do desafio da disciplina de Coding: Mobile.
 
 ## 📊 Entidade Principal
 
+### Consulta de Fisioterapia
 
----
+Entidade responsável por registrar os atendimentos realizados.
+
+#### Campos:
+
+- `pacienteTutor` → Nome do paciente ou responsável
+- `procedimento` → Tipo de procedimento:
+  - Acupuntura
+  - Hidroterapia
+  - Laserterapia
+  - Cinesioterapia
+- `dataSessao` → Data da sessão
+- `evolucaoConduta` → Evolução/observações clínicas
+- `createdAt / updatedAt` → Gerados automaticamente
 
 ## 🔁 Operações CRUD
 
-- POST → Criar
-- GET → Listar
-- PUT → Atualizar
-- DELETE → Remover
+- POST → Criar consulta
+- GET → Listar consultas
+- PUT → Atualizar consulta
+- DELETE → Remover consulta
 
 ---
 
