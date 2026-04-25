@@ -112,5 +112,3 @@ Maria Eduarda
 
 Estudante de Fisioterapia e Análise e Desenvolvimento de Sistemas
 
-## Considerações
-> 🔗 Projeto Fullstack com frontend em PWA e backend em Node.js, utilizando MongoDB como banco de dados.
