@@ -19,15 +19,15 @@ Projeto criado como parte do desafio da disciplina de Coding: Mobile.
 ```bash
 physio-control-backend/
 │
-├── models
-  └── Consulta
-├── controllers
-│ └── ConsultaController
-├── routes
-│ └── consultaRoutes
-├── server.js
-├── package.json
-├── .gitignore
+├── models  # Modelos do banco (Mongoose)
+  └── Consulta 
+├── controllers # Regras de negócio
+│ └── ConsultaController 
+├── routes # Rotas da API
+│ └── consultaRoutes 
+├── server.js # Inicialização do servidor
+├── package.json # Dependências do projeto
+├── .gitignore # Arquivos ignorados
 ├── README.md
 
 ```
