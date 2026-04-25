@@ -76,7 +76,7 @@ DELETE /consulta/:id
 🚀 API disponível em:
 ```md
 (https://physio-control-backend.onrender.com/api/consultas)
-
+```
 ---
 
 ## 🔗 Integração com Frontend
@@ -84,7 +84,7 @@ DELETE /consulta/:id
 O frontend da aplicação está hospedado no Netlify:
 ```md
 (https://physio-front.netlify.app/)
-
+```
 ---
 
 ## 📌 Sobre o Projeto
