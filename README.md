@@ -16,7 +16,7 @@ Projeto criado como parte do desafio da disciplina de Coding: Mobile.
 ---
 
 ## 📂 Estrutura do Projeto
-```
+```bash
 physio-control-backend/
 │
 ├── models
@@ -86,11 +86,15 @@ O frontend da aplicação está hospedado no Netlify:
 
 ---
 
-## 📌 Diferenciais do Projeto
-- Arquitetura MVC
-- API RESTful completa
-- Persistência com MongoDB
-- Deploy em produção (Render)
+## 📌 Sobre o Projeto
+
+Projeto desenvolvido com foco em:
+
+Desenvolvimento mobile com PWA
+Integração fullstack
+Consumo de API REST
+Persistência de dados com MongoDB
+Deploy em produção (Netlify + Render)
 
 ---
 
