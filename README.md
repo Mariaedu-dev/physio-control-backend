@@ -89,7 +89,7 @@ https://physio-front.netlify.app/
 ## 🧠 Aprendizados
 
 - Criação de APIs com Node.js
-- Integração com banco NoSQL (MongoDB)
+- Backend integrado ao MongoDB Atlas para persistência de dados em banco NoSQL na nuvem.
 - Modelagem de dados com Mongoose
 - Integração fullstack
 - Deploy de aplicações web
