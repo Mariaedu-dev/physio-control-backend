@@ -86,15 +86,13 @@ https://physio-front.netlify.app/
 
 ---
 
-## 📌 Sobre o Projeto
+## 🧠 Aprendizados
 
-Projeto desenvolvido com foco em:
-
-- Desenvolvimento mobile com PWA
+- Criação de APIs com Node.js
+- Integração com banco NoSQL (MongoDB)
+- Modelagem de dados com Mongoose
 - Integração fullstack
-- Consumo de API REST
-- Persistência de dados com MongoDB
-- Deploy em produção (Netlify + Render)
+- Deploy de aplicações web
   
 ---
 
