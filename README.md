@@ -1,7 +1,6 @@
 # ⚙️ FisioApp - Backend API
 
-API RESTful desenvolvida em Node.js para gerenciamento de procedimentos de fisioterapia.  
-Projeto criado como parte do desafio da disciplina de Coding: Mobile.
+API RESTful desenvolvida em Node.js para gerenciamento de procedimentos de fisioterapia. Projeto criado como parte do desafio da disciplina de Coding: Mobile.
 
 ---
 
@@ -64,10 +63,10 @@ Entidade responsável por registrar os atendimentos realizados.
 ## 📡 Endpoints
 
 
-GET /consulta
-POST /consulta
-PUT /consulta/:id
-DELETE /consulta/:id
+- GET /consulta
+- POST /consulta
+- PUT /consulta/:id
+- DELETE /consulta/:id
 
 ---
 
@@ -91,11 +90,11 @@ https://physio-front.netlify.app/
 
 Projeto desenvolvido com foco em:
 
-Desenvolvimento mobile com PWA
-Integração fullstack
-Consumo de API REST
-Persistência de dados com MongoDB
-Deploy em produção (Netlify + Render)
+- Desenvolvimento mobile com PWA
+- Integração fullstack
+- Consumo de API REST
+- Persistência de dados com MongoDB
+- Deploy em produção (Netlify + Render)
 
 ---
 
