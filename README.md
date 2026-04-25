@@ -78,4 +78,5 @@ https://SEU-FRONTEND.netlify.app
 ## 👩‍💻 Autora
 
 Maria Eduarda
+
 Estudante de Fisioterapia e Análise e Desenvolvimento de Sistemas
