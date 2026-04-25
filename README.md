@@ -16,7 +16,15 @@ Projeto criado como parte do desafio da disciplina de Coding: Mobile.
 ---
 
 ## 📂 Estrutura do Projeto
-
+```
+physio-control-backend/
+│
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+```
 
 ---
 
