@@ -19,11 +19,17 @@ Projeto criado como parte do desafio da disciplina de Coding: Mobile.
 ```
 physio-control-backend/
 │
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
+├── models
+  └── Consulta
+├── controllers
+│ └── ConsultaController
+├── routes
+│ └── consultaRoutes
+├── server.js
+├── package.json
+├── .gitignore
+├── README.md
+
 ```
 
 ---
@@ -68,7 +74,7 @@ DELETE /consulta/:id
 ## 🌐 Deploy
 
 🚀 API disponível em:  
-https://SEU-BACKEND.onrender.com
+(https://physio-control-backend.onrender.com/api/consultas)
 
 ---
 
@@ -76,7 +82,7 @@ https://SEU-BACKEND.onrender.com
 
 O frontend da aplicação está hospedado no Netlify:
 
-https://SEU-FRONTEND.netlify.app
+(https://physio-front.netlify.app/)
 
 ---
 
